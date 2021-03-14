@@ -101,3 +101,6 @@ alias stopftp="sudo /opt/lampp/lampp stopftp"
 # vim
 alias v="vim "
 alias sv="sudo vim "
+
+# ncmpcpp
+alias music="ncmpcpp"
